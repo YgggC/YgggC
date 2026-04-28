@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 # Hi, I'm Yangguang ☀️
 
 ## 🎓 Educate
-🇸🇪ing Master’s in Data Science and AI at Chalmers University of Technology
-🇺🇸 Bachelor's Computer Science at the University of Wisconsin–Eau Claire
+- 🇸🇪ing Master’s in Data Science and AI at Chalmers University of Technology
+- 🇺🇸 Bachelor's Computer Science at the University of Wisconsin–Eau Claire
 
 ## 🚀 Focus
-👀 Computer Vision
-💬 Natural Language Processing
-⚙️ Applied Machine Learning
+- 👀 Computer Vision
+- 💬 Natural Language Processing
+- ⚙️ Applied Machine Learning
 
 ## 🚗 What drives me
 
-🐒 I enjoy working on problems where technology meets people and real use cases.
-🚶 I believe good technology should meaningfully improve how people live and work.
+- 🐒 I enjoy working on problems where technology meets people and real use cases.
+-🚶 I believe good technology should meaningfully improve how people live and work.
 
 ## 🌱 Interests & Hobbies
-🌳 📖 👩‍🍳 🧶
+- 🌳 📖 👩‍🍳 🧶
 
 ## 🐦‍⬛ Contact
 - LinkedIn: https://www.linkedin.com/in/yangguang-chen/
