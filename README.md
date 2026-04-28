@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Yangguang 👋
+
+## About Me
+- 🎓 Studying Data Science & AI at Chalmers 🇸🇪
+- 💻 Interested in ML / DL / CV / NLP / CV 
+- 📍 Based in Gothenburg
+
+<!--
+## Projects
+- 🔹 Top2Vec exploration
+- 🔹 Sentence similarity analysis
+- 🔹 Chinese word segmentation experiment
+--!>
+
+## Skills
+- Python, PyTorch, NLP, R 
+- Git, Linux
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/yangguang-chen/
