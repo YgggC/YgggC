@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🚗 What drives me
 
 - 🐒 I enjoy working on problems where technology meets people and real use cases.
--🚶 I believe good technology should meaningfully improve how people live and work.
+- 🚶 I believe good technology should meaningfully improve how people live and work.
 
 ## 🌱 Interests & Hobbies
 - 🌳 📖 👩‍🍳 🧶
