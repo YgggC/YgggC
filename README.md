@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YgggC/YgggC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,23 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Yangguang 👋
+# Hi, I'm Yangguang ☀️
 
-## About Me
-- 🎓 Studying Data Science & AI at Chalmers 🇸🇪
-- 💻 Interested in ML / DL / CV / NLP / CV 
-- 📍 Based in Gothenburg
+## 🎓 Educate
+🇸🇪ing Master’s in Data Science and AI at Chalmers University of Technology
+🇺🇸 Bachelor's Computer Science at the University of Wisconsin–Eau Claire
 
-<!--
-## Projects
-- 🔹 Top2Vec exploration
-- 🔹 Sentence similarity analysis
-- 🔹 Chinese word segmentation experiment
---!>
+## 🚀 Focus
+👀 Computer Vision
+💬 Natural Language Processing
+⚙️ Applied Machine Learning
 
-## Skills
-- Python, PyTorch, NLP, R 
-- Git, Linux
+## 🚗 What drives me
 
-## Contact
+🐒 I enjoy working on problems where technology meets people and real use cases.
+🚶 I believe good technology should meaningfully improve how people live and work.
+
+## 🌱 Interests & Hobbies
+🌳 📖 👩‍🍳 🧶
+
+## 🐦‍⬛ Contact
 - LinkedIn: https://www.linkedin.com/in/yangguang-chen/
