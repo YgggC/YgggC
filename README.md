@@ -1,64 +1,60 @@
-<!--
-**YgggC/YgggC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yangguang☀️  
 
-Here are some ideas to get you started:
+**M.Sc. Data Science & AI @ Chalmers | Focused on Computer Vision for Autonomous Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Yangguang ☀️
-- Data Science & AI Student | Focused on Applied Machine Learning & Real-World Systems
+---
 
-## 🎓 Education
-- 🇸🇪ing Master’s in Data Science & AI, Chalmers University of Technology
-- 🇺🇸 B.Sc. in Computer Science, University of Wisconsin–Eau Claire
+## 🎓 Education  
+- M.Sc. Data Science & AI — Chalmers University of Technology  
+- B.Sc. Computer Science — University of Wisconsin–Eau Claire  
 
-## 🛠️ Tech Stack
-- Languages
-    Python, Java, R, MATLAB, SQL
-- Machine Learning / AI
-    PyTorch, Scikit-learn, Pandas, NumPy
- -Focus Areas
-  - 👀 Computer Vision
-  - 💬 Natural Language Processing
-  - ⚙️ Applied Machine Learning
-- Tools & Workflow
-Git, Jupyter, Linux, Docker (basic)
+---
 
-## 🚀 Projects
-- 🔹 project_FTS — Time-Series Forecasting Pipeline
--- Built an end-to-end time-series prediction pipeline integrating Python and MATLAB
--- Designed data preprocessing workflows (cleaning, normalization, feature extraction)
--- Applied machine learning models for forecasting and evaluated performance on real datasets
--- Structured cross-tool workflow: Python for ingestion, MATLAB for modeling and analysis
-# Tech:
-Python, MATLAB, Pandas, NumPy
-  
+## 🛠️ Tech Stack  
 
-- 🔹 Image Analysis — Computer Vision & Geometry
--- Implemented feature detection and matching pipelines for multi-view images
--- Analyzed geometric transformations (e.g., affine / homography) for image alignment
--- Applied RANSAC with minimal solvers for robust parameter estimation
--- Evaluated invariance properties using annotated visual structures
+**Languages**  
+- Python, MATLAB  
 
-# Tech:
-Python, OpenCV, NumPy
+**Computer Vision**  
+- OpenCV, Feature Detection & Matching, Multi-view Geometry  
 
+**Machine Learning**  
+- Scikit-learn, PyTorch (basic), NumPy, Pandas  
 
+**Concepts**  
+- Geometric Transformations, RANSAC, Robust Estimation, Time-Series Modeling  
 
-## 🚗 What drives me
+---
 
-- 🐒 I enjoy working on problems where technology meets people and real use cases.
-- 🚶 I believe good technology should meaningfully improve how people live and work.
+## 🚀 Selected Projects  
 
-## 🌱 Interests & Hobbies
-- 🌳 📖 👩‍🍳 🧶
+### 🔹 Computer Vision for Multi-View Geometry  
+- Implemented feature detection and matching pipelines for image alignment  
+- Modeled affine and projective transformations between views  
+- Applied RANSAC with minimal solvers for robust parameter estimation  
+- Analyzed invariance properties under viewpoint changes  
 
-## 🐦‍⬛ Contact
-- LinkedIn: https://www.linkedin.com/in/yangguang-chen/
+---
+
+### 🔹 Time-Series Forecasting for Real-World Data  
+- Built ML pipeline for noisy temporal data (data cleaning → feature engineering → prediction)  
+- Integrated Python (data processing) with MATLAB (modeling & evaluation)  
+- Focused on robustness under imperfect real-world conditions  
+
+---
+
+### 🔹 NLP Experiments (Supplementary)  
+- Implemented baseline text classification pipelines  
+- Explored feature representations and model performance trade-offs  
+
+---
+
+## 🎯 Interests  
+- Autonomous driving perception systems  
+- Sensor data processing & robustness  
+- Bridging classical CV and ML for real-world deployment  
+
+---
+
+## 📫 Contact  
+- LinkedIn
