@@ -57,4 +57,4 @@
 ---
 
 ## 📫 Contact  
-- LinkedIn
+- LinkedIn: https://www.linkedin.com/in/yangguang-chen/ 
