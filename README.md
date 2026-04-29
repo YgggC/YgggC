@@ -13,15 +13,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Yangguang ☀️
+- Data Science & AI Student | Focused on Applied Machine Learning & Real-World Systems
 
-## 🎓 Educate
-- 🇸🇪ing Master’s in Data Science and AI at Chalmers University of Technology
-- 🇺🇸 Bachelor's Computer Science at the University of Wisconsin–Eau Claire
+## 🎓 Education
+- 🇸🇪ing Master’s in Data Science & AI, Chalmers University of Technology
+- 🇺🇸 B.Sc. in Computer Science, University of Wisconsin–Eau Claire
 
-## 🚀 Focus
-- 👀 Computer Vision
-- 💬 Natural Language Processing
-- ⚙️ Applied Machine Learning
+## 🛠️ Tech Stack
+- Languages
+    Python, Java, R, MATLAB, SQL
+- Machine Learning / AI
+    PyTorch, Scikit-learn, Pandas, NumPy
+ -Focus Areas
+  - 👀 Computer Vision
+  - 💬 Natural Language Processing
+  - ⚙️ Applied Machine Learning
+- Tools & Workflow
+Git, Jupyter, Linux, Docker (basic)
+
+## 🚀 Projects
+- 🔹 project_FTS — Time-Series Forecasting Pipeline
+-- Built an end-to-end time-series prediction pipeline integrating Python and MATLAB
+-- Designed data preprocessing workflows (cleaning, normalization, feature extraction)
+-- Applied machine learning models for forecasting and evaluated performance on real datasets
+-- Structured cross-tool workflow: Python for ingestion, MATLAB for modeling and analysis
+# Tech:
+Python, MATLAB, Pandas, NumPy
+  
+
+- 🔹 Image Analysis — Computer Vision & Geometry
+-- Implemented feature detection and matching pipelines for multi-view images
+-- Analyzed geometric transformations (e.g., affine / homography) for image alignment
+-- Applied RANSAC with minimal solvers for robust parameter estimation
+-- Evaluated invariance properties using annotated visual structures
+
+# Tech:
+Python, OpenCV, NumPy
+
+
 
 ## 🚗 What drives me
 
