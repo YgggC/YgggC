@@ -28,7 +28,7 @@
 
 ## 🚀 Selected Projects  
 
-### 🔹 Computer Vision for Multi-View Geometry  
+### 🔹 [Computer Vision for Multi-View Geometry](https://github.com/YgggC/SSY098-Image-analysis)  
 - Implemented feature detection and matching pipelines for image alignment  
 - Modeled affine and projective transformations between views  
 - Applied RANSAC with minimal solvers for robust parameter estimation  
@@ -36,14 +36,14 @@
 
 ---
 
-### 🔹 Time-Series Forecasting for Real-World Data  
+### 🔹 [Time-Series Forecasting for Real-World Data](https://github.com/luprader/project_FTS)  
 - Built ML pipeline for noisy temporal data (data cleaning → feature engineering → prediction)  
 - Integrated Python (data processing) with MATLAB (modeling & evaluation)  
 - Focused on robustness under imperfect real-world conditions  
 
 ---
 
-### 🔹 NLP Experiments (Supplementary)  
+### 🔹 [NLP Experiments (Supplementary)](https://github.com/YgggC/NLP_portfolio)  
 - Implemented baseline text classification pipelines  
 - Explored feature representations and model performance trade-offs  
 
@@ -57,4 +57,4 @@
 ---
 
 ## 📫 Contact  
-- LinkedIn: https://www.linkedin.com/in/yangguang-chen/ 
+- [LinkedIn:](https://www.linkedin.com/in/yangguang-chen/)
