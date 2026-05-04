@@ -5,8 +5,8 @@
 ---
 
 ## 🎓 Education  
-- M.Sc. Data Science & AI — Chalmers University of Technology  
-- B.Sc. Computer Science — University of Wisconsin–Eau Claire  
+- M.Sc. Data Science & AI — Chalmers University of Technology  [Read more 📄](https://www.chalmers.se/en/education/find-masters-programme/data-science-and-ai-msc/)
+- B.Sc. Computer Science — University of Wisconsin–Eau Claire  [Read more 📄](https://www.uwec.edu/academics/programs/undergraduate/computer-science)
 
 ---
 
