@@ -57,4 +57,5 @@
 ---
 
 ## 📫 Contact  
-- [LinkedIn:](https://www.linkedin.com/in/yangguang-chen/)
+- [LinkedIn](https://www.linkedin.com/in/yangguang-chen/)
+- [Instagram](https://www.instagram.com/yangguangc02/)
