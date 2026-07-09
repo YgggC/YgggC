@@ -1,10 +1,11 @@
 # Hi, I'm Yangguang☀️  
 
-**M.Sc. Data Science & AI @ Chalmers | Focused on Computer Vision for Autonomous Systems**
+**M.Sc. Data Science & AI @ Chalmers**
 
 ---
 
 ## 🎓 Education  
+- Exchange. Computation, Information and Technology - Technischen Universität München [Read more 📄](https://www.cit.tum.de/cit/internationales/studieren/incoming/informatics/)
 - M.Sc. Data Science & AI — Chalmers University of Technology  [Read more 📄](https://www.chalmers.se/en/education/find-masters-programme/data-science-and-ai-msc/)
 - B.Sc. Computer Science — University of Wisconsin–Eau Claire  [Read more 📄](https://www.uwec.edu/academics/programs/undergraduate/computer-science)
 
