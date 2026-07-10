@@ -11,37 +11,6 @@ I don't limit myself to a single technology stack or domain. I pride myself on s
 *   **Performance Optimization:** I prioritize scalability and efficiency, knowing when to deploy a lightweight OpenCV classical pipeline vs. a heavyweight PyTorch deep learning architecture.
  
 ---
-## 🛠️ Tech Stack  
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Computer Vision**  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Feature Detection & Matching](https://img.shields.io/badge/Feature_Detection_&_Matching-1F2937?style=for-the-badge)
-![Multi-view Geometry](https://img.shields.io/badge/Multi--view_Geometry-1F2937?style=for-the-badge)
-
-**Machine Learning**  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Deep Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F9DC3E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Concepts & Algorithms**  
-![Geometric Transformations](https://img.shields.io/badge/Geometric_Transformations-4B5563?style=for-the-badge)
-![RANSAC](https://img.shields.io/badge/RANSAC-4B5563?style=for-the-badge)
-![Robust Estimation](https://img.shields.io/badge/Robust_Estimation-4B5563?style=for-the-badge)
-![Time-Series Modeling](https://img.shields.io/badge/Time--Series_Modeling-4B5563?style=for-the-badge)
-
----
 ## 🎓 Education  
 - Exchange. Computation, Information and Technology - Technischen Universität München [Read more 📄](https://www.cit.tum.de/cit/internationales/studieren/incoming/informatics/)
 - M.Sc. Data Science & AI — Chalmers University of Technology  [Read more 📄](https://www.chalmers.se/en/education/find-masters-programme/data-science-and-ai-msc/)
@@ -76,4 +45,31 @@ I organize my work by technical domains to demonstrate my versatility across the
 
 ## 📫 Contact  
 - [LinkedIn](https://www.linkedin.com/in/yangguang-chen/)
+
+---
+## 🛠️ Tech Stack  
+
+**Languages**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Computer Vision**  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Feature Detection & Matching](https://img.shields.io/badge/Feature_Detection_&_Matching-1F2937?style=for-the-badge)
+![Multi-view Geometry](https://img.shields.io/badge/Multi--view_Geometry-1F2937?style=for-the-badge)
+
+**Machine Learning**  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Deep Learning**  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9DC3E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Concepts & Algorithms**  ![Geometric Transformations](https://img.shields.io/badge/Geometric_Transformations-4B5563?style=for-the-badge)
+![RANSAC](https://img.shields.io/badge/RANSAC-4B5563?style=for-the-badge)
+![Robust Estimation](https://img.shields.io/badge/Robust_Estimation-4B5563?style=for-the-badge)
+![Time-Series Modeling](https://img.shields.io/badge/Time--Series_Modeling-4B5563?style=for-the-badge)
+
 
